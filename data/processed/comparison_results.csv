@@ -1,0 +1,61 @@
+message,vader_score,vader_sentiment,ml_prediction,match
+The delivery took about the stated number of days.,0.0772,Positive,Neutral,False
+The support response contained the information I needed.,0.4019,Positive,Positive,True
+I am not satisfied with the product.,-0.3252,Negative,Positive,False
+The quality is worse than I expected.,-0.4767,Negative,Positive,False
+I received poor customer service.,-0.4767,Negative,Negative,True
+The order status was visible in the account.,0.0,Neutral,Neutral,True
+The product performance is poor.,-0.4767,Negative,Negative,True
+The item looks different from the listing.,0.0,Neutral,Neutral,True
+The quality and performance are excellent.,0.5719,Positive,Positive,True
+I am impressed by the quick delivery.,0.4767,Positive,Positive,True
+The item came with the listed accessories.,0.0,Neutral,Neutral,True
+Customer support replied to my message.,0.4019,Positive,Positive,True
+Everything was clear and easy during the purchase.,0.6705,Positive,Positive,True
+The product is okay for normal use.,0.2263,Positive,Neutral,False
+The website provided the necessary information.,0.0,Neutral,Neutral,True
+The delivery was made according to the tracking information.,0.0,Neutral,Neutral,True
+"Great product, great service, and fast delivery.",0.8481,Positive,Positive,True
+The item came in a regular package.,0.0,Neutral,Neutral,True
+The product exceeded my expectations.,0.0,Neutral,Neutral,True
+The product is working at the moment.,0.0,Neutral,Neutral,True
+The item came in a cardboard box.,0.0,Neutral,Neutral,True
+The package was received at the delivery address.,0.0,Neutral,Neutral,True
+The ordering process was simple and convenient.,0.0,Neutral,Positive,False
+The delivery time was acceptable.,0.3182,Positive,Neutral,False
+I am unhappy with the quality.,-0.4215,Negative,Negative,True
+The company did a fantastic job handling my order.,0.5574,Positive,Positive,True
+I am happy with the product performance.,0.5719,Positive,Positive,True
+The product failed during normal use.,-0.5106,Negative,Neutral,False
+The packaging was excellent and the item was protected well.,0.8271,Positive,Positive,True
+The delivery was extremely late.,0.0,Neutral,Neutral,True
+I regret buying this product.,-0.4215,Negative,Positive,False
+I had no problems with my order.,-0.5994,Negative,Positive,False
+The product arrived safely and works as expected.,0.4939,Positive,Neutral,False
+The order history shows the purchase correctly.,0.0,Neutral,Neutral,True
+Excellent packaging and fast shipping.,0.5719,Positive,Positive,True
+The order details were available in my account.,0.0,Neutral,Neutral,True
+The item is currently working normally.,0.0,Neutral,Neutral,True
+I am very happy with the purchase.,0.6115,Positive,Positive,True
+Great service and a smooth shopping experience.,0.6249,Positive,Positive,True
+The order was delivered today.,0.0,Neutral,Neutral,True
+The package was poorly packed.,0.0,Neutral,Neutral,True
+The product quality is unacceptable.,-0.4588,Negative,Positive,False
+I received no useful help from support.,0.7269,Positive,Positive,True
+Very satisfied with both the product and delivery.,0.4754,Positive,Positive,True
+Fast delivery and excellent product quality.,0.5719,Positive,Positive,True
+The quality does not justify the price.,0.0,Neutral,Neutral,True
+The item matches the selected model.,0.0,Neutral,Neutral,True
+I love this product and would definitely buy it again.,0.7845,Positive,Positive,True
+The product quality is below expectations.,0.0,Neutral,Positive,False
+The order was delivered to the wrong place.,-0.4767,Negative,Neutral,False
+I am pleased with the quick response from support.,0.6808,Positive,Positive,True
+The support team asked for the order number.,0.4588,Positive,Positive,True
+The order was placed successfully.,0.4939,Positive,Neutral,False
+My order was delayed with no proper update.,-0.4767,Negative,Negative,True
+The item arrived damaged and unusable.,-0.4404,Negative,Negative,True
+The product is useful and performs very well.,0.6478,Positive,Positive,True
+The item was delivered safely and on time.,0.4939,Positive,Neutral,False
+The product works exactly as described.,0.0,Neutral,Neutral,True
+The product is usable for my needs.,0.0,Neutral,Neutral,True
+The product is difficult to use and unreliable.,-0.3612,Negative,Positive,False

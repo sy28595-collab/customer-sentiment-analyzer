@@ -1,0 +1,301 @@
+message,vader_score,vader_sentiment
+Customer support replied to my message.,0.4019,Positive
+I received a damaged product.,-0.4404,Negative
+I appreciate how quickly customer support responded.,0.6597,Positive
+The product is useful and performs very well.,0.6478,Positive
+I had a wonderful shopping experience.,0.5719,Positive
+I was charged incorrectly for the order.,-0.2023,Negative
+The item arrived without a delay.,0.2411,Positive
+I have used the product for a few days.,0.0,Neutral
+Very satisfied with both the product and delivery.,0.4754,Positive
+The package was badly damaged.,-0.7184,Negative
+The product exceeded my expectations.,0.0,Neutral
+The item I received was damaged.,-0.4404,Negative
+The packaging was standard.,0.0,Neutral
+The product has several problems.,-0.4019,Negative
+The product stopped working after a short time.,-0.2263,Negative
+The product quality is below expectations.,0.0,Neutral
+The support team was unable to help.,0.6597,Positive
+The product is exactly what I needed.,0.0,Neutral
+The item was easy enough to install.,0.4404,Positive
+The package was received at the delivery address.,0.0,Neutral
+The delivery was poorly handled.,0.0,Neutral
+I love this product and would definitely buy it again.,0.7845,Positive
+The product stopped working unexpectedly.,-0.2263,Negative
+The delivery took far too long.,0.0,Neutral
+The product is suitable for regular use.,0.0,Neutral
+The delivery charge was shown during checkout.,0.0,Neutral
+The product quality is unacceptable.,-0.4588,Negative
+I received the wrong item.,-0.4767,Negative
+The support team was professional and friendly.,0.7096,Positive
+The product looks exactly like the pictures and feels premium.,0.3612,Positive
+The customer service was disappointing.,-0.4939,Negative
+The product is average for its price.,0.0,Neutral
+The order was shipped after processing.,0.0,Neutral
+I am very satisfied with the overall experience.,0.4754,Positive
+Customer support ignored my request.,0.1027,Positive
+The website showed the current price.,0.0,Neutral
+The item looks different from the listing.,0.0,Neutral
+The price is the same as shown online.,0.0,Neutral
+The item is available in the size I selected.,0.0,Neutral
+I will definitely consider buying from this company again.,0.4019,Positive
+I am unhappy with the quality.,-0.4215,Negative
+The order information was incorrect.,0.0,Neutral
+The quality does not justify the price.,0.0,Neutral
+The product was easy to set up and use.,0.4404,Positive
+The company did not handle my complaint properly.,0.2235,Positive
+The product arrived as described.,0.0,Neutral
+The product did not work from the beginning.,0.0,Neutral
+The product has the expected controls.,0.0,Neutral
+The product does not work as described.,0.0,Neutral
+The website was easy to use and ordering was simple.,0.4404,Positive
+I am extremely satisfied with the service.,0.4754,Positive
+The product is unreliable.,0.0,Neutral
+Everything was handled perfectly by the support team.,0.7845,Positive
+The product arrived with scratches.,0.0,Neutral
+The order process was straightforward.,0.0,Neutral
+The item has the specifications listed online.,0.0,Neutral
+The customer service response took one day.,0.0,Neutral
+The product has the features mentioned on the website.,0.0,Neutral
+The item arrived late and damaged.,-0.4404,Negative
+The delivery information was available online.,0.0,Neutral
+The order was cancelled without a useful explanation.,-0.5277,Negative
+I am disappointed by the overall experience.,-0.4767,Negative
+Very smooth experience and excellent service.,0.5719,Positive
+The order was delivered to the wrong place.,-0.4767,Negative
+The delivery service was disappointing.,-0.4939,Negative
+The product feels cheaply made.,0.0,Neutral
+The delivery was delayed several times.,-0.2263,Negative
+The product setup took some time.,0.0,Neutral
+The company handled my request very well.,0.3384,Positive
+The packaging was damaged when it arrived.,-0.4404,Negative
+I had no problems with my order.,-0.5994,Negative
+The package contained the correct item.,0.0,Neutral
+I am not happy with the service.,-0.4585,Negative
+The delivery was much slower than expected.,0.0,Neutral
+The quality is worse than I expected.,-0.4767,Negative
+The staff was friendly and helpful throughout the process.,0.7184,Positive
+The item is currently working normally.,0.0,Neutral
+The product works exactly as described.,0.0,Neutral
+The item arrived damaged despite the packaging.,-0.4404,Negative
+The delivery was made according to the tracking information.,0.0,Neutral
+My order was delayed with no proper update.,-0.4767,Negative
+The package was sealed when it arrived.,0.0,Neutral
+The order contained one product.,0.0,Neutral
+I am not satisfied with the product.,-0.3252,Negative
+The item came with an instruction manual.,0.0,Neutral
+The service was slow and frustrating.,-0.4404,Negative
+The product feels durable and well made.,0.2732,Positive
+The product is not as good as advertised.,-0.3412,Negative
+The service was poor from start to finish.,-0.4767,Negative
+I would recommend this service to my friends.,0.6808,Positive
+The order was accepted by the system.,0.2732,Positive
+The item I received was defective.,-0.4404,Negative
+I regret buying this product.,-0.4215,Negative
+I am pleased with the quick and safe delivery.,0.7003,Positive
+I am pleased with the quick response from support.,0.6808,Positive
+The delivery was completed in the afternoon.,0.0,Neutral
+Everything was clear and easy during the purchase.,0.6705,Positive
+The package was open when it arrived.,0.0,Neutral
+Excellent experience with my first order.,0.5719,Positive
+The package arrived during the scheduled period.,0.0,Neutral
+"Great product, great service, and fast delivery.",0.8481,Positive
+I am very disappointed with this purchase.,-0.5256,Negative
+The product quality is disappointing.,-0.4939,Negative
+The package was handed over successfully.,0.4939,Positive
+Very happy with the service and product.,0.6115,Positive
+The product looks fairly standard.,0.0,Neutral
+The service was excellent and the response was quick.,0.5719,Positive
+Excellent experience from placing the order to receiving it.,0.5719,Positive
+The product matched my expectations perfectly.,0.6369,Positive
+I am satisfied with the support I received.,0.6705,Positive
+Very good experience overall.,0.4927,Positive
+The website provided the necessary information.,0.0,Neutral
+The item I received was incorrect.,0.0,Neutral
+The product is okay for the intended purpose.,0.2263,Positive
+The item is available as listed.,0.0,Neutral
+The order was missing items.,-0.296,Negative
+Customer support was not helpful at all.,0.0946,Positive
+The order was delivered today.,0.0,Neutral
+The item was missing from the package.,-0.296,Negative
+The item was missing important accessories.,-0.1027,Negative
+The item came with the listed accessories.,0.0,Neutral
+This is one of the best purchases I have made.,0.6369,Positive
+The order was processed successfully.,0.4939,Positive
+Support answered my questions clearly.,0.6597,Positive
+The product does not match what I ordered.,0.0,Neutral
+The ordering process was simple and convenient.,0.0,Neutral
+Very good quality and excellent value for money.,0.8516,Positive
+Excellent packaging and fast shipping.,0.5719,Positive
+The company provided excellent support.,0.7506,Positive
+The product is average in terms of performance.,0.0,Neutral
+The support response was unhelpful.,0.4019,Positive
+Everything worked perfectly and the experience was great.,0.8519,Positive
+The delivery was late and there was no clear update.,0.1027,Positive
+The service was efficient and courteous.,0.7269,Positive
+The support team failed to resolve the issue.,0.25,Positive
+The product has stopped working.,-0.2263,Negative
+The item does not match the description.,0.0,Neutral
+I am very satisfied and have no issues.,0.2247,Positive
+The customer service team responded by email.,0.0,Neutral
+The product quality is impressive.,0.5106,Positive
+The product arrived in poor condition.,-0.4767,Negative
+The item arrived in perfect condition.,0.5719,Positive
+The delivery person was polite and the package was safe.,0.4404,Positive
+The product is usable for my needs.,0.0,Neutral
+I am completely satisfied with this purchase.,0.4754,Positive
+The item arrived on the expected date.,0.0,Neutral
+Customer service was rude and unhelpful.,-0.4588,Negative
+The product quality is excellent and I am very happy with my purchase.,0.8268,Positive
+The support team took too long to respond.,0.4019,Positive
+The product is currently functioning.,0.0,Neutral
+The company did not respond to my complaint.,-0.296,Negative
+The order process was smooth from start to finish.,0.0,Neutral
+The product does not meet my expectations.,0.0,Neutral
+I would buy this product again.,0.0,Neutral
+The item arrived damaged and unusable.,-0.4404,Negative
+The order confirmation was received.,0.0,Neutral
+I would happily recommend this product to others.,0.7269,Positive
+The delivery was fast and the product arrived in perfect condition.,0.5719,Positive
+The product is neither very good nor very bad.,0.1139,Positive
+Everything arrived as promised.,0.3612,Positive
+The delivery update was inaccurate.,0.0,Neutral
+The product has poor performance.,-0.4767,Negative
+The order was placed successfully.,0.4939,Positive
+The order contained the wrong product.,-0.4767,Negative
+I am very pleased with this purchase.,0.4927,Positive
+The product quality is very poor and I am disappointed.,-0.7574,Negative
+The product is working at the moment.,0.0,Neutral
+The item came in a regular package.,0.0,Neutral
+The product is difficult to use and unreliable.,-0.3612,Negative
+The website displayed the order status.,0.0,Neutral
+I am happy with the fast delivery.,0.5719,Positive
+Great quality product at a reasonable price.,0.6249,Positive
+I would not recommend this product.,-0.2755,Negative
+"The service was quick, professional, and friendly.",0.4939,Positive
+The product has the standard features.,0.0,Neutral
+Customer support answered my question.,0.4019,Positive
+The customer support reply was brief.,0.4019,Positive
+My order was delayed without any clear explanation.,-0.4738,Negative
+The product quality is impressive for the price.,0.5106,Positive
+I am unhappy with the service.,-0.4215,Negative
+The delivery was completed as scheduled.,0.0,Neutral
+The product is okay for normal use.,0.2263,Positive
+The product is similar to other options I have used.,0.0,Neutral
+The product has a standard warranty.,0.0,Neutral
+The product arrived in its original packaging.,0.3182,Positive
+The item was delivered to my address.,0.0,Neutral
+The service was extremely frustrating.,-0.4927,Negative
+The product arrived safely and works as expected.,0.4939,Positive
+The product is dependable and good quality.,0.4404,Positive
+Really good service and very good product quality.,0.7496,Positive
+The package arrived without any visible issue.,0.0,Neutral
+The item was delivered in the expected condition.,0.0,Neutral
+I am very unhappy with this purchase.,-0.4754,Negative
+The order was confirmed by email.,0.0,Neutral
+The delivery took about the stated number of days.,0.0772,Positive
+The delivery was completed normally.,0.0,Neutral
+The delivery was extremely late.,0.0,Neutral
+The package was damaged badly.,-0.7184,Negative
+The order was completed without any special issue.,-0.3089,Negative
+I am happy with the value I received.,0.7269,Positive
+The delivery delay caused a serious inconvenience.,-0.6249,Negative
+The product failed during normal use.,-0.5106,Negative
+The product works as expected.,0.0,Neutral
+The quality and performance are excellent.,0.5719,Positive
+The order arrived earlier than expected and I am pleased.,0.4404,Positive
+The order arrived incomplete.,0.0,Neutral
+The product works perfectly and I have no complaints.,0.0772,Positive
+The product is similar to the description.,0.0,Neutral
+The order status was visible in the account.,0.0,Neutral
+The product is well built and works reliably.,0.2732,Positive
+The product can be used without major difficulty.,0.2584,Positive
+"The product is comfortable, useful, and well designed.",0.8074,Positive
+The product broke after a few uses.,-0.4215,Negative
+I had a bad experience with customer support.,-0.2023,Negative
+The support agent provided a standard response.,0.4019,Positive
+I am impressed by the quick delivery.,0.4767,Positive
+The product performance is poor.,-0.4767,Negative
+The product performs basic tasks as expected.,0.0,Neutral
+I am unhappy with the purchase.,-0.4215,Negative
+The product is worth the money.,0.2263,Positive
+The item is functioning normally so far.,0.0,Neutral
+The order details were available in my account.,0.0,Neutral
+The customer service was excellent.,0.5719,Positive
+The product is not worth the price.,-0.1695,Negative
+The product has a normal build quality.,0.0,Neutral
+I really enjoyed using this product.,0.5563,Positive
+The product information was available on the page.,0.0,Neutral
+The support response was too late.,0.4019,Positive
+The support team asked for the order number.,0.4588,Positive
+Very professional customer service.,0.0,Neutral
+The product has a regular appearance.,0.0,Neutral
+Great product and very professional service.,0.6249,Positive
+I am happy with the attention to customer service.,0.5719,Positive
+The item was delivered safely and on time.,0.4939,Positive
+This product is easy to use and works great.,0.7906,Positive
+I received excellent service throughout my order.,0.5719,Positive
+The support team did not solve my problem.,0.5213,Positive
+The product is fine for basic requirements.,0.2023,Positive
+The product has a simple design.,0.0,Neutral
+The order was handled poorly.,0.0,Neutral
+The company did a fantastic job handling my order.,0.5574,Positive
+I am very pleased with the purchase.,0.4927,Positive
+The order arrived much later than expected.,0.0,Neutral
+The item looks good and works perfectly.,0.7964,Positive
+I received poor customer service.,-0.4767,Negative
+The product is reliable and performs very well.,0.3384,Positive
+I am satisfied with the overall quality.,0.4215,Positive
+The item is currently in usable condition.,0.0,Neutral
+The delivery was quick and hassle free.,0.5106,Positive
+The item came in a cardboard box.,0.0,Neutral
+I am happy with the product performance.,0.5719,Positive
+The support team was polite and resolved everything efficiently.,0.7269,Positive
+The item arrived with the expected parts.,0.0,Neutral
+The product is disappointing for the price.,-0.4939,Negative
+The delivery time was acceptable.,0.3182,Positive
+The package had normal protective material.,0.0,Neutral
+The order history shows the purchase correctly.,0.0,Neutral
+The quality is better than I expected.,0.4404,Positive
+The support team provided the requested details.,0.4019,Positive
+I am very happy with the purchase.,0.6115,Positive
+The item is not functioning properly.,0.0,Neutral
+I am impressed by the quality of this product.,0.4767,Positive
+The product has a basic interface.,0.0,Neutral
+The delivery status changed after dispatch.,0.0,Neutral
+The product is suitable for everyday tasks.,0.0,Neutral
+Everything about my order was handled well.,0.2732,Positive
+The product has the listed specifications.,0.0,Neutral
+The package was poorly packed.,0.0,Neutral
+The product stopped working within days.,-0.2263,Negative
+The order details were correct.,0.0,Neutral
+The delivery time was within the stated range.,0.0,Neutral
+I received my order quickly and safely.,0.4939,Positive
+I received no useful help from support.,0.7269,Positive
+The item matches the selected model.,0.0,Neutral
+The item was defective when I opened it.,-0.4404,Negative
+I am glad I chose this product.,0.4588,Positive
+Customer support was very helpful and solved my issue quickly.,0.7996,Positive
+The support response contained the information I needed.,0.4019,Positive
+I had a frustrating experience with this order.,-0.4404,Negative
+The product looks similar to the listing.,0.0,Neutral
+The item arrived broken.,-0.4767,Negative
+I am disappointed with the overall service.,-0.4767,Negative
+The delivery took three days.,0.0,Neutral
+Great service and a smooth shopping experience.,0.6249,Positive
+I expected much better quality.,0.4404,Positive
+The delivery status was updated normally.,0.0,Neutral
+I received the item I ordered.,0.0,Neutral
+The product performs better than expected.,0.4404,Positive
+I received exactly what I ordered and I am satisfied.,0.4215,Positive
+Fast delivery and excellent product quality.,0.5719,Positive
+The delivery took much longer than promised.,0.3612,Positive
+The product was packed carefully and arrived safely.,0.5719,Positive
+The delivery experience was terrible.,-0.4767,Negative
+The item arrived on time and in excellent condition.,0.5719,Positive
+I had a great experience with the order.,0.6249,Positive
+The support team provided the information I requested.,0.4019,Positive
+The delivery person handed over the package.,0.0,Neutral
+I received an update about my order.,0.0,Neutral
+The packaging was excellent and the item was protected well.,0.8271,Positive
+I had a positive experience with this company.,0.5574,Positive

@@ -1,0 +1,4 @@
+,Predicted Negative,Predicted Neutral,Predicted Positive
+Actual Negative,5,2,6
+Actual Neutral,0,20,2
+Actual Positive,0,6,19
